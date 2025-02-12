@@ -1,6 +1,6 @@
-# Gruppuppgift: Skapa ett Quiz med Next.js och Global State
+#  Workshop: Skapa ett Quiz med Next.js och Global State
 
-I det här gruppprojektet ska ni skapa en enkel quizapp med hjälp av Next.js och Context för global state-hantering.
+I den här workshopen ska ni skapa en enkel quizapp med hjälp av Next.js och Context för global state-hantering.
 
 ### Sätt upp projektet
 
@@ -11,12 +11,11 @@ I det här gruppprojektet ska ni skapa en enkel quizapp med hjälp av Next.js oc
 ## Projektinstruktioner
 
 - Använd Next.js routing för att skapa minst två sidor: en **Admin-sida** och en **Quiz-sida**.
-- Använd dig av Reakt Hook Form för formulärhantering
 
   - På **Admin-sidan** ska administratörer kunna lägga till, ta bort och uppdatera quizfrågor.
-  - På **Admin-sidan** ska administratörer kunna skapa ett quiz med X antal frågor och tillhörande svar 
   - På **Quiz-sidan** ska användare kunna starta ett quiz, välja svar på flervalsfrågor, och till slut se sitt resultat.
-  - På **Quiz-sidan** ska användare kunna se quiz, välja svar på flervalsfrågor, och till slut se sitt resultat.
+ 
+- Använd dig av Reakt Hook Form för formulärhantering och om möjligt validering med Zod
 
 - Designa quizfrågor som flervalsfrågor där användaren väljer ett svar från flera alternativ.
 
@@ -40,6 +39,4 @@ Efter denna uppgift ska ni ha fördjupad förståelse för global state-hanterin
 
 3. **Använd localStorage**: Implementera localStorage för att spara och ladda quizfrågor, så att admin kan återanvända dem även efter att webbläsaren stängts.
 
-4. **Responsiv design**: Se till att ert quiz ser bra ut och fungerar på både mobiltelefoner, surfplattor och datorer.
-
-5. **Stil och användarupplevelse**: Använd CSS eller ett ramverk som Tailwind CSS för att förbättra användargränssnittet och användarupplevelsen på er quizsida.
+8. **Design och komponenter**: Använd CSS, Tailwind CSS och eller ett komponentbibliotek som shadn
