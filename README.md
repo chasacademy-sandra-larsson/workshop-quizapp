@@ -41,4 +41,4 @@ Efter denna uppgift ska ni ha fördjupad förståelse för global state-hanterin
 
 4. **Validering av formulär**: Använd biblioteket Zod för att validera formuläret för att skapa frågor
 
-8. **Design och komponenter**: Använd CSS, Tailwind CSS och eller ett komponentbibliotek som shadn
+8. **Design och komponenter**: Använd CSS, Tailwind CSS och eller ett komponentbibliotek som shadcn
