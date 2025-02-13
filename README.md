@@ -15,7 +15,7 @@ I den här workshopen ska ni skapa en enkel quizapp med hjälp av Next.js och Co
   - På **Admin-sidan** ska administratörer kunna lägga till, ta bort och uppdatera quizfrågor.
   - På **Quiz-sidan** ska användare kunna starta ett quiz, välja svar på flervalsfrågor, och till slut se sitt resultat.
  
-- Använd dig av Reakt Hook Form för formulärhantering och om möjligt validering med Zod
+- Använd dig av Reakt Hook Form för formulärhantering 
 
 - Designa quizfrågor som flervalsfrågor där användaren väljer ett svar från flera alternativ.
 
@@ -38,5 +38,7 @@ Efter denna uppgift ska ni ha fördjupad förståelse för global state-hanterin
 2. **Skapa flera quiz**: Utveckla applikationen så att den har flera olika quiz på separata sidor. Användare kan välja vilket quiz de vill ta från en huvudmeny.
 
 3. **Använd localStorage**: Implementera localStorage för att spara och ladda quizfrågor, så att admin kan återanvända dem även efter att webbläsaren stängts.
+
+4. **Validering av formulär**: Använd biblioteket Zod för att validera formuläret för att skapa frågor
 
 8. **Design och komponenter**: Använd CSS, Tailwind CSS och eller ett komponentbibliotek som shadn
